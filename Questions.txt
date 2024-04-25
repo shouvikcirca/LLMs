@@ -1,0 +1,15 @@
+Questions
+
+How many claims have I processed on a particular date
+How many claims have I processed within a certain date range
+How many claims have I processed in the last n days
+How many claims have been processed by a particular coal company on a particular date
+How many claims have been processed by a particular coal company in a given date range
+How many claims have been processed by a particular coal company in the last n days
+How many claims have been processed in a particular RO on a particular date
+How many claims have been processed in a particular RO company in a given date range
+How many claims have been processed in a particular RO in the last n days
+How many claims are present at a particular level(UDA, UAO, etc) 
+
+
+How to get instructions about using the portal

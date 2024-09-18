@@ -17,7 +17,7 @@ How to get instructions about using the portal
 Prompt templates:
 
 ------------------------------------------------
-If the query asks for VPF contribution, PF balance or Pension balance without specifying a year, respond by saying "Year required". If year is provided, respond the way shown in the examples below
+If the query asks for VPF contribution, PF balance or Pension balance without specifying a year, respond by saying "Year required". If year is provided, respond the way shown in the examples below. The response will be parsed with json.loads(), thereforeit must be valid JSON
 
 { Query: "I want to know PF balance for 2011","Response":{"entity":"PF","year":"2011}}
 { Query: "What is my PF balance ?","Response":"Year required"}

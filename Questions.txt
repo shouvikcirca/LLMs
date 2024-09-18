@@ -13,3 +13,18 @@ How many claims are present at a particular level(UDA, UAO, etc)
 
 
 How to get instructions about using the portal
+
+Prompt templates:
+
+------------------------------------------------
+If the query asks for VPF contribution, PF balance or Pension balance without specifying a year, respond by saying "Year required". If year is provided, respond the way shown in the examples below
+
+{ Query: "I want to know PF balance for 2011","Response":{"entity":"PF","year":"2011}}
+{ Query: "What is my PF balance ?","Response":"Year required"}
+{ Query: "Pension balance for 1987","Response":{"entity":"Pension","year":"1987"}}
+{ Query: "Pension balance","Response":"Year required"}
+{ Query: "Can you tell my VPF contribution for 1965","Response":{"entity":"VPF","year":"1965}}
+{ Query: "What was my VPF contribution","Response":"Year required"}
+
+What do you suppose my VPF was in 1977 ?
+-------------------------------------------------

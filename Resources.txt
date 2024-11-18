@@ -1,0 +1,8 @@
+Chroma setup
+https://rito.hashnode.dev/installing-chroma-db-locally-querying-personal-data
+
+Sentence Transformers
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+Count tokens for HF models
+https://pastebin.com/RjhjEkxf
